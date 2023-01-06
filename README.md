@@ -24,7 +24,7 @@
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
     <a href="https://www.openstack.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/openstack.png"/> </a> 
-    <a href="https://www.terraform.io/" target="_blank"> <img src="https://icons8.com/icon/WncR8Bcg5nE9/terraform"/> </a> 
+    <a href="https://www.terraform.io/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/terraform.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nginx.png"/> </a> 
     <a href="http://tomcat.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tomcat.png"/> </a> 
