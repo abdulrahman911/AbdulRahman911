@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Kubernets and AWS.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌴 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **My GitHub**
 
