@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **AIOPS and MLOPS.**
+- 🌱 I’m currently learning **AI and MLOPS**
 
 - 🌴 I’m looking to collaborate on **OpenSource Projects**
 
