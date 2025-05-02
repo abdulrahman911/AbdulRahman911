@@ -74,12 +74,12 @@
 <a href = "https://www.linkedin.com/in/abdul-rahman-uk/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/@abdulrahmanuk91/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/abdulrahman911/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abdulrahman911">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/abdulrahman911?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/abdulrahman911?tab=followers"><img src="https://img.shields.io/github/followers/abdulrahman911?label=Followers&style=social" alt="GitHub Badge"></a>
